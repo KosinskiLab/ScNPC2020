@@ -40,3 +40,6 @@ The repository consists of the following directories:
       - pdb_utils
       - imp_utils1
       - efitter
+      
+      
+ # For questions/support please contact: jan.kosinski@embl-hamburg.de or vasileios.rantos@embl-hamburg.de

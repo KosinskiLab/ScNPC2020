@@ -1,8 +1,10 @@
 # ScNPC2020
 
-Welcome to the repository ScNPC2020 from Kosinski Lab (EMBL Hamburg), which includes all the custom code files used for integrative modeling of ScNPC.
+Welcome to the repository ScNPC2020 from Kosinski Lab (EMBL Hamburg), which includes all the custom code files used for integrative modeling of ScNPC as part of the following work:
 
-The repository consists of the following directories:
+"Allegretti, M., Zimmerli, C.E., Rantos, V., Wilfling, F., Ronchi, P., Fung, H.K., Lee, C.W., Hagen, W., Turonova, B., Karius, K. and Zhang, X., 2020. In cell architecture of the nuclear pore complex and snapshots of its turnover. bioRxiv."
+
+## The repository consists of the following directories:
 
   - CR_Y_complex
       - README file for running the 'de novo' integrative modeling of wt CR Y-complex

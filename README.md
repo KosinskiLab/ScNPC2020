@@ -42,4 +42,4 @@ The repository consists of the following directories:
       - efitter
       
       
- # For questions/support please contact: jan.kosinski@embl-hamburg.de or vasileios.rantos@embl-hamburg.de
+- For questions/support please contact: jan.kosinski@embl-hamburg.de or vasileios.rantos@embl-hamburg.de
